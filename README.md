@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋 I’m Dat<br><br>🚀 AI Engineer | Train data into intelligence.<br>🛠️ Focused on building scalable ML pipelines and innovative AI applications.<br>🧠 Constantly learning, experimenting, and shipping code.
+# 💫 Hi 👋 I’m Dat
+<br><br>🚀 AI Engineer | Train data into intelligence.<br>🛠️ Focused on building scalable ML pipelines and innovative AI applications.<br>🧠 Constantly learning, experimenting, and shipping code.
 
 
 ## 🌐 Socials:
