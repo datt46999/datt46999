@@ -1,4 +1,8 @@
-# 💫 Hi 👋 I’m Dat
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tan+Dat+😀!;AI+Engineer+👨‍💻;AI+Developer+🤖" />
+</h1>
+
+
 <br><br>🚀 AI Engineer | Train data into intelligence.<br>🛠️ Focused on building scalable ML pipelines and innovative AI applications.<br>🧠 Constantly learning, experimenting, and shipping code.
 
 
