@@ -6,7 +6,7 @@
 <br><br>🚀 AI Engineer | Train data into intelligence.<br>🛠️ Focused on building scalable ML pipelines and innovative AI applications.<br>🧠 Constantly learning, experimenting, and shipping code.
 
 
-![Hazhaz1412](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=datt46999&layout=compact&langs_count=8&theme=nightowl&hide=scss,css,shaderlab,html)
+![datt46999](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=datt46999&layout=compact&langs_count=8&theme=nightowl&hide=scss,css,shaderlab,html)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dat.nguyentan.7906/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dat-nguyen-030a5027b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyentandat280603@gmail.com) 
