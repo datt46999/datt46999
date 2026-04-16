@@ -2,8 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=HI!!!!+THERE!+👋;+I'm+TAN+DAT+😀!;+AND+I'm........+😀!;AI+ENGINEER+👨‍💻;AI+DEVELOPER+🤖" />
 </h1>
 
+# 📖  Focused on 
 
-<br><br>🚀 AI Engineer | Train data into intelligence.<br>🛠️ Focused on building scalable ML pipelines and innovative AI applications.<br>🧠 Constantly learning, experimenting, and shipping code.
+
+<br><br>🚀 Building and improving AI models using ML & deep learning.<br>
+🛠️ Developing AI agents for intelligent automation.<br>
+🧠 Constantly learning, experimenting, and shipping code.
 
 
 ![datt46999](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=datt46999&layout=compact&langs_count=8&theme=nightowl&hide=scss,css,shaderlab,html)
