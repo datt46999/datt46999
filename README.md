@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=HI!!!!+THERE!+👋;+I'm+TAN+DAT+😀!;+AND+I'm........+😀!;AI+ENGINEER+👨‍💻;AI+DEVELOPER+🤖" />
 </h1>
 
+<h1>About me</h1>
+Hi, I'm Dat. I am a passionate and motivated AI Engineer with a strong interest in building intelligent systems that solve real-world problems. My journey in AI focuses on designing and developing modern AI solutions, including LLM systems, AI agents, and scalable ML/deep models.  I enjoy experimenting with modern AI technologies, optimizing models, and integrating them into practical systems.
+
 # 📖  Focused on 
 🚀 Building and improving AI models using ML & deep learning.<br>
 🛠️ Developing AI agents for intelligent automation.<br>
