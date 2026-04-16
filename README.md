@@ -3,7 +3,8 @@
 </h1>
 
 <h1>About me</h1>
-Hi, I'm Dat. I am a passionate and motivated AI Engineer with a strong interest in building intelligent systems that solve real-world problems. My journey in AI focuses on designing and developing modern AI solutions, including LLM systems, AI agents, and scalable ML/deep models.  I enjoy experimenting with modern AI technologies, optimizing models, and integrating them into practical systems.
+Hi, I'm Dat — an aspiring AI Engineer passionate about building intelligent systems that solve real-world problems. I’m particularly interested in LLM systems, AI agents, and scalable ML/deep models. I enjoy working across the full pipeline, from model development to deployment, and continuously improving my skills in deep learning and system design. My long-term goal is to become an AI Engineer capable of designing scalable, reliable, and production-ready AI systems.
+
 
 # 📖  Focused on 
 🚀 Building and improving AI models using ML & deep learning.<br>
