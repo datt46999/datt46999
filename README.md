@@ -3,8 +3,6 @@
 </h1>
 
 # 📖  Focused on 
-
-
 <br><br>🚀 Building and improving AI models using ML & deep learning.<br>
 🛠️ Developing AI agents for intelligent automation.<br>
 🧠 Constantly learning, experimenting, and shipping code.
