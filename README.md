@@ -12,13 +12,14 @@ Hi, I'm Dat — an aspiring AI Engineer passionate about building intelligent sy
 🧠 Constantly learning, experimenting, and shipping code.
 
 
-![datt46999](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=datt46999&layout=compact&langs_count=8&theme=nightowl&hide=scss,css,shaderlab,html)
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dat.nguyentan.7906/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dat-nguyen-030a5027b/?skipRedirect=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyentandat280603@gmail.com) 
 
 
-
+<a href="https://github.com/datt46999/LLMs_course">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=LLMs_course&theme=gruvbox" />
+</a>  
 
 <a href="https://github.com/datt46999/Hand_Gestures_MobinetV3-">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
