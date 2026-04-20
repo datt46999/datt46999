@@ -3,7 +3,7 @@
 </h1>
 
 <h1>About me</h1>
-Hi, I'm Dat — an aspiring AI Engineer passionate about building intelligent systems that solve real-world problems. I’m particularly interested in LLM systems, AI agents, and scalable ML/deep models. I enjoy working across the full pipeline, from model development to deployment, and continuously improving my skills in deep learning and system design. My long-term goal is to become an AI Engineer capable of designing scalable, reliable, and production-ready AI systems.
+Hi, I'm Dat — an aspiring AI Engineer passionate about building intelligent systems that solve real-world problems. I’m particularly interested in LLM systems, AI agents, and scalable ML/deep models. My long-term goal is to become an AI Engineer capable of designing scalable, reliable, and production-ready AI systems.
 
 
 # 📖  Focused on 
