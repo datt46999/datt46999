@@ -13,7 +13,7 @@ Hi, I'm Dat — an aspiring AI Engineer passionate about building intelligent sy
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dat.nguyentan.7906/) |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dat-nguyen-030a5027b/?skipRedirect=true) | [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyentandat280603@gmail.com) | [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-yellow?logo=huggingface&logoColor=yellow](https://huggingface.co/gugukaka) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dat.nguyentan.7906/) |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dat-nguyen-030a5027b/?skipRedirect=true) | [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyentandat280603@gmail.com) | [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-yellow?logo=huggingface&logoColor=yellow)](https://huggingface.co/gugukaka) 
 
 
 <a href="https://github.com/datt46999/LLMs_course">
