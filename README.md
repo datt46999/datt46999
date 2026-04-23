@@ -7,7 +7,7 @@ Hi, I'm Dat — an aspiring AI Engineer passionate about building intelligent sy
 
 
 # 📖  Focused on 
-🚀 Building and improving AI models using ML & deep learning.<br>
+🚀 Building and improving AI models using CV,ML & DL.<br>
 🛠️ Developing AI agents for intelligent automation.<br>
 🧠 Constantly learning, experimenting, and shipping code.
 
