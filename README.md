@@ -19,7 +19,7 @@ Hi, I'm Dat — an aspiring AI Engineer passionate about building intelligent sy
 
 <a href="https://github.com/datt46999/GAIA_Agent">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=GAIA_Agent&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=GAIA_Agent&theme=dark" />
 </a>
 <a href="https://github.com/datt46999/LLMs_course">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
