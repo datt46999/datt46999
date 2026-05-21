@@ -25,7 +25,6 @@ Hi, I'm Dat — an aspiring AI Engineer passionate about building intelligent sy
 
 
 <a href="https://github.com/datt46999/Chatbot-Q-A-agent">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Agent_Chatbot&theme=dark" />
 </a>
 <a href="https://github.com/datt46999/LLMs_course">
