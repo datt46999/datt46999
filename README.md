@@ -44,15 +44,25 @@ My long-term goal is to become an AI Engineer capable of designing scalable, rel
 
 </div>
 
-<br>
 
-## 🚀 Personal Projects
+<h2 align="center">🚀 Personal Projects</h2>
+<div align="center">
 
-| Project | Description | Language |
-|--------|-------------|----------|
-| [🤖 Pokemon-AI-agent](https://github.com/datt46999/Pokemon_AI_agent) | AI agent that plays Pokemon using LLM-based decision making | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [💬 Chatbot-Q&A-agent](https://github.com/datt46999/Chatbot-Q-A-agent) | Conversational Q&A agent with RAG for intelligent document answering | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [📚 LLMs-course](https://github.com/datt46999/LLMs_course) | Hands-on experiments exploring LLMs, fine-tuning, and prompting | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
-| [✋ Hand-Gestures-MobileNetV3](https://github.com/datt46999/Hand_Gestures_MobinetV3-) | Real-time hand gesture recognition using MobileNetV3 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [✍️ HandWriting](https://github.com/datt46999/HandWriting) | Handwriting recognition with deep learning | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [🏃 ST-GCN-For-HAR](https://github.com/datt46999/ST_GCN-For-HAR) | Spatial-Temporal GCN for human action recognition from skeleton data | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+<a href="https://github.com/datt46999/Pokemon_AI_agent">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Pokemon_AI_agent&theme=dark" />
+</a>
+<a href="https://github.com/datt46999/Chatbot-Q-A-agent">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Chatbot-Q-A-agent&theme=synthwave" />
+</a>
+<a href="https://github.com/datt46999/LLMs_course">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=LLMs_course&theme=gruvbox" />
+</a>
+<a href="https://github.com/datt46999/Hand_Gestures_MobinetV3-">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Hand_Gestures_MobinetV3-&theme=merko" />
+</a>
+<a href="https://github.com/datt46999/HandWriting">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=HandWriting&theme=radical" />
+</a>
+<a href="https://github.com/datt46999/ST_GCN-For-HAR">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=ST_GCN-For-HAR&theme=cobalt" />
+</a>
