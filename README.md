@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=HI!!!!+THERE!+👋;I'm+TAN+DAT+😀!;AI+ENGINEER+👨‍💻;AI+DEVELOPER+🤖" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=HI!!!!+THERE!+👋;I'm+TAN+DAT+😀!;I'M+A+AI+ENGINEER+👨‍💻;AND+ALSO+A+AI+DEVELOPER+🤖" />
 </h1>
 
 <h1>About Me</h1>
