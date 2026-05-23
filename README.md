@@ -46,24 +46,13 @@ My long-term goal is to become an AI Engineer capable of designing scalable, rel
 
 <br>
 
-<h2 align="center">🚀 Personal Projects</h2>
-<div align="center">
-  <a href="https://github.com/datt46999/Pokemon_AI_agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datt46999&repo=Pokemon_AI_agent&theme=dracula&cache_seconds=86400" alt="Pokemon AI Agent"/>
-  </a>
-  <a href="https://github.com/datt46999/Chatbot-Q-A-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datt46999&repo=Chatbot-Q-A-agent&theme=dark&cache_seconds=86400" alt="Chatbot Q&A Agent"/>
-  </a>
-  <a href="https://github.com/datt46999/LLMs_course">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datt46999&repo=LLMs_course&theme=gruvbox&cache_seconds=86400" alt="LLMs Course"/>
-  </a>
-  <a href="https://github.com/datt46999/Hand_Gestures_MobinetV3-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datt46999&repo=Hand_Gestures_MobinetV3-&theme=radical&cache_seconds=86400" alt="Hand Gestures MobileNetV3"/>
-  </a>
-  <a href="https://github.com/datt46999/HandWriting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datt46999&repo=HandWriting&theme=merko&cache_seconds=86400" alt="Handwriting Recognition"/>
-  </a>
-  <a href="https://github.com/datt46999/ST_GCN-For-HAR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datt46999&repo=ST_GCN-For-HAR&theme=gruvbox&cache_seconds=86400" alt="ST-GCN For HAR"/>
-  </a>
-</div>
+## 🚀 Personal Projects
+
+| Project | Description | Language |
+|--------|-------------|----------|
+| [🤖 Pokemon-AI-agent](https://github.com/datt46999/Pokemon_AI_agent) | AI agent that plays Pokemon using LLM-based decision making | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [💬 Chatbot-Q&A-agent](https://github.com/datt46999/Chatbot-Q-A-agent) | Conversational Q&A agent with RAG for intelligent document answering | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [📚 LLMs-course](https://github.com/datt46999/LLMs_course) | Hands-on experiments exploring LLMs, fine-tuning, and prompting | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
+| [✋ Hand-Gestures-MobileNetV3](https://github.com/datt46999/Hand_Gestures_MobinetV3-) | Real-time hand gesture recognition using MobileNetV3 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [✍️ HandWriting](https://github.com/datt46999/HandWriting) | Handwriting recognition with deep learning | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [🏃 ST-GCN-For-HAR](https://github.com/datt46999/ST_GCN-For-HAR) | Spatial-Temporal GCN for human action recognition from skeleton data | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
