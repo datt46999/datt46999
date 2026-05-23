@@ -1,20 +1,50 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=HI!!!!+THERE!+👋;+I'm+TAN+DAT+😀!;+AND+I'm........+😀!;AI+ENGINEER+👨‍💻;AI+DEVELOPER+🤖" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=HI!!!!+THERE!+👋;I'm+TAN+DAT+😀!;AI+ENGINEER+👨‍💻;AI+DEVELOPER+🤖" />
 </h1>
 
-<h1>About me</h1>
-Hi, I'm Dat — an aspiring AI Engineer passionate about building intelligent systems that solve real-world problems. I’m particularly interested in LLM systems, AI agents, Computer Vision, and scalable ML/deep models. My long-term goal is to become an AI Engineer capable of designing scalable, reliable, and production-ready AI systems.
+<h1>About Me</h1>
+
+<p>
+Hi, I'm Dat — an aspiring AI Engineer passionate about building intelligent systems that solve real-world problems. 
+I'm particularly interested in <b>LLM systems</b>, <b>AI agents</b>, 
+<b>Computer Vision</b>, and scalable <b>ML/Deep Learning models</b>. 
+
+My long-term goal is to become an AI Engineer capable of designing scalable, reliable, and production-ready AI systems.
+</p>
+
 <div align="center">
 
-🌱 I’m currently learning **LLM systems and AI agents** 
+🌱 I’m currently learning <b>LLM systems and AI agents</b>
 
- </div>
- 
- <div align="center">
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dat.nguyentan.7906/) |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dat-nguyen-030a5027b/?skipRedirect=true) | [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyentandat280603@gmail.com) | [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-yellow?logo=huggingface&logoColor=yellow)](https://huggingface.co/gugukaka) | [![Weights & Biases](https://img.shields.io/badge/W&B-Experiment-FFBE00?logo=weightsandbiases&logoColor=white)](https://wandb.ai/profile/nguyentandat280603)
+</div>
 
- </div>
+<br>
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+<div align="center">
+
+<a href="https://www.facebook.com/dat.nguyentan.7906/">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/dat-nguyen-030a5027b/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:nguyentandat280603@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+</a>
+
+<a href="https://huggingface.co/gugukaka">
+  <img src="https://img.shields.io/badge/HuggingFace-Model-yellow?logo=huggingface">
+</a>
+
+<a href="https://wandb.ai/profile/nguyentandat280603">
+  <img src="https://img.shields.io/badge/W%26B-Experiment-FFBE00?logo=weightsandbiases&logoColor=white">
+</a>
+
+</div>
 
 
 <a href="https://github.com/datt46999/Pokemon_AI_agent">
