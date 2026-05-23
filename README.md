@@ -4,9 +4,11 @@
 
 <h1>About me</h1>
 Hi, I'm Dat — an aspiring AI Engineer passionate about building intelligent systems that solve real-world problems. I’m particularly interested in LLM systems, AI agents, Computer Vision, and scalable ML/deep models. My long-term goal is to become an AI Engineer capable of designing scalable, reliable, and production-ready AI systems.
+<div align="center">
 
+🌱 I’m currently learning **LLM systems and AI agents** 
 
-** 🌱 I’m currently learning **LLM systems and AI agents****
+ </div>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dat.nguyentan.7906/) |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dat-nguyen-030a5027b/?skipRedirect=true) | [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyentandat280603@gmail.com) | [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-yellow?logo=huggingface&logoColor=yellow)](https://huggingface.co/gugukaka) | [![Weights & Biases](https://img.shields.io/badge/W&B-Experiment-FFBE00?logo=weightsandbiases&logoColor=white)](https://wandb.ai/profile/nguyentandat280603)
 
