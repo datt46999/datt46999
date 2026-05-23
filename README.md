@@ -47,6 +47,13 @@ My long-term goal is to become an AI Engineer capable of designing scalable, rel
 </div>
 
 
+
+<div align="center">
+
+🌱 Personal Project</b>
+
+</div>
+
 <a href="https://github.com/datt46999/Pokemon_AI_agent">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Pokemon_AI_agent&theme=dracula" />
