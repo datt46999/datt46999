@@ -57,8 +57,8 @@ My long-term goal is to become an AI Engineer capable of designing scalable, rel
 <a href="https://github.com/datt46999/Chatbot-Q-A-agent">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Chatbot-Q-A-agent&theme=synthwave" />
 </a>
-<a href="https://github.com/datt46999/LLMs_course">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=LLMs_course&theme=gruvbox" />
+<a href="https://github.com/datt46999/Multi_agent_workflow">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Multi_agent_workflow&theme=gruvbox" />
 </a>
 <a href="https://github.com/datt46999/Hand_Gestures_MobinetV3-">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Hand_Gestures_MobinetV3-&theme=merko" />
