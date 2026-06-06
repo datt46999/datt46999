@@ -58,8 +58,8 @@ My long-term goal is to become an AI Engineer capable of designing scalable, rel
 <a href="https://github.com/datt46999/Pokemon_AI_agent">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Pokemon_AI_agent&theme=dracula" />
 </a>
-<a href="https://github.com/datt46999/Chatbot-Q-A-agent">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Chatbot-Q-A-agent&theme=synthwave" />
+<a href="https://github.com/datt46999/FC-SFTLLM-Multi-Agent-Architecture">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=FC-SFTLLM-Multi-Agent-Architecture&theme=synthwave" />
 </a>
 <a href="https://github.com/datt46999/Multi_agent_workflow">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Multi_agent_workflow&theme=gruvbox" />
