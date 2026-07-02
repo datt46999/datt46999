@@ -42,38 +42,56 @@ My long-term goal is to become an AI Engineer capable of designing scalable, rel
 
 
 <h2 align="center">🚀 Personal Projects</h2>
-<a href="https://github.com/datt46999/LANGGRAPH_CHATBOT_MCP_TOOL">
-  <img
-    align="center"
-    src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=LANGGRAPH_CHATBOT_MCP_TOOL&theme=tokyonight&cache_seconds=60"
-  />
-</a>
-  
-<a href="https://github.com/datt46999/Pokemon_AI_agent">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Pokemon_AI_agent&theme=dracula&cache_seconds=60"/>
-</a>
-<a href="https://github.com/datt46999/FC-SFTLLM-Multi-Agent-Architecture">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=FC-SFTLLM-Multi-Agent-Architecture&theme=synthwave&cache_seconds=60"/>
-</a>
-<a href="https://github.com/datt46999/Multi_agent_workflow">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Multi_agent_workflow&theme=gruvbox&cache_seconds=60"/>
-</a>
 
-
-
-<a href="https://github.com/datt46999/PR_agent">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=PR_agent&theme=cobalt&cache_seconds=60"/>
-</a>
-
-
-<a href="https://github.com/datt46999/Hand_Gestures_MobinetV3-">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Hand_Gestures_MobinetV3-&theme=merko&cache_seconds=60"/>
-</a>
-<a href="https://github.com/datt46999/HandWriting">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=HandWriting&theme=radical&cache_seconds=60"/>
-</a>
-<a href="https://github.com/datt46999/ST_GCN-For-HAR">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=ST_GCN-For-HAR&theme=cobalt&cache_seconds=60"/>
-</a>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/datt46999/LANGGRAPH_CHATBOT_MCP_TOOL">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=LANGGRAPH_CHATBOT_MCP_TOOL&theme=tokyonight&cache_seconds=60" alt="LANGGRAPH_CHATBOT_MCP_TOOL"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/datt46999/Pokemon_AI_agent">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Pokemon_AI_agent&theme=dracula&cache_seconds=60" alt="Pokemon_AI_agent"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/datt46999/FC-SFTLLM-Multi-Agent-Architecture">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=FC-SFTLLM-Multi-Agent-Architecture&theme=synthwave&cache_seconds=60" alt="FC-SFTLLM-Multi-Agent-Architecture"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/datt46999/Multi_agent_workflow">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Multi_agent_workflow&theme=gruvbox&cache_seconds=60" alt="Multi_agent_workflow"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/datt46999/PR_agent">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=PR_agent&theme=cobalt&cache_seconds=60" alt="PR_agent"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/datt46999/Hand_Gestures_MobinetV3-">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Hand_Gestures_MobinetV3-&theme=merko&cache_seconds=60" alt="Hand_Gestures_MobinetV3-"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/datt46999/HandWriting">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=HandWriting&theme=radical&cache_seconds=60" alt="HandWriting"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/datt46999/ST_GCN-For-HAR">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=ST_GCN-For-HAR&theme=cobalt&cache_seconds=60" alt="ST_GCN-For-HAR"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
