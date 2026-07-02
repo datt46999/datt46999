@@ -42,37 +42,38 @@ My long-term goal is to become an AI Engineer capable of designing scalable, rel
 
 
 <h2 align="center">🚀 Personal Projects</h2>
-<div align="center">
 <a href="https://github.com/datt46999/LANGGRAPH_CHATBOT_MCP_TOOL">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=LANGGRAPH_CHATBOT_MCP_TOOL&theme=tokyonight" />
+  <img
+    align="center"
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=LANGGRAPH_CHATBOT_MCP_TOOL&theme=tokyonight&cache_seconds=60"
+  />
 </a>
-
   
 <a href="https://github.com/datt46999/Pokemon_AI_agent">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Pokemon_AI_agent&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Pokemon_AI_agent&theme=dracula&cache_seconds=60"/>
 </a>
 <a href="https://github.com/datt46999/FC-SFTLLM-Multi-Agent-Architecture">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=FC-SFTLLM-Multi-Agent-Architecture&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=FC-SFTLLM-Multi-Agent-Architecture&theme=synthwave&cache_seconds=60"/>
 </a>
 <a href="https://github.com/datt46999/Multi_agent_workflow">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Multi_agent_workflow&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Multi_agent_workflow&theme=gruvbox&cache_seconds=60"/>
 </a>
 
 
 
 <a href="https://github.com/datt46999/PR_agent">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=PR_agent&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=PR_agent&theme=cobalt&cache_seconds=60"/>
 </a>
 
 
 <a href="https://github.com/datt46999/Hand_Gestures_MobinetV3-">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Hand_Gestures_MobinetV3-&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Hand_Gestures_MobinetV3-&theme=merko&cache_seconds=60"/>
 </a>
 <a href="https://github.com/datt46999/HandWriting">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=HandWriting&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=HandWriting&theme=radical&cache_seconds=60"/>
 </a>
 <a href="https://github.com/datt46999/ST_GCN-For-HAR">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=ST_GCN-For-HAR&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=ST_GCN-For-HAR&theme=cobalt&cache_seconds=60"/>
 </a>
 
 
