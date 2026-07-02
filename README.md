@@ -22,27 +22,24 @@ My long-term goal is to become an AI Engineer capable of designing scalable, rel
 
 <div align="center">
 
-<a href="https://www.facebook.com/dat.nguyentan.7906/">
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
+📫 **Email:** <a href="mailto:nguyentandat280603@gmail.com">nguyentandat280603@gmail.com</a>
+
+<br>
+
+<a href="https://www.facebook.com/dat.nguyentan.7906/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
-<a href="https://www.linkedin.com/in/dat-nguyen-030a5027b/">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/dat-nguyen-030a5027b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:nguyentandat280603@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-</a>
 <a href="https://leetcode.com/u/NguyenDat469/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 
-<a href="https://huggingface.co/gugukaka">
-<img src="https://img.shields.io/badge/HuggingFace-Model-yellow?logo=huggingface"/>
-</a>
-
-<a href="https://wandb.ai/profile/nguyentandat280603">
-<img src="https://img.shields.io/badge/W%26B-Experiment-FFBE00?logo=weightsandbiases&logoColor=white"/>
+<a href="https://huggingface.co/gugukaka" target="_blank">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </a>
 
 </div>
