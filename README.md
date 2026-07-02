@@ -71,7 +71,7 @@ My long-term goal is to become an AI Engineer capable of designing scalable, rel
   <tr>
     <td>
       <a href="https://github.com/datt46999/PR_agent">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=PR_agent&theme=cobalt&cache_seconds=60" alt="PR_agent"/>
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=PR_agent&theme=gruvbox&cache_seconds=60" alt="PR_agent"/>
       </a>
     </td>
     <td>
