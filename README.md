@@ -34,10 +34,6 @@ My long-term goal is to become an AI Engineer capable of designing scalable, rel
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://leetcode.com/u/NguyenDat469/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-
 <a href="https://huggingface.co/gugukaka" target="_blank">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </a>
