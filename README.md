@@ -7,7 +7,7 @@
 <p>
 Hi, I'm Dat — an aspiring AI Engineer passionate about building intelligent systems that solve real-world problems.
 
-I'm particularly interested in <b>LLM systems</b>, <b>AI agents</b>, <b>Computer Vision</b>, and scalable <b>ML/Deep Learning models</b>.
+I'm particularly interested in <b>LLM systems</b>, <b>AI agents</b>,<b>RAG Architectures</b> <b>Computer Vision</b>, and scalable <b>ML/Deep Learning models</b>.
 
 My long-term goal is to become an AI Engineer capable of designing scalable, reliable, and production-ready AI systems.
 </p>
