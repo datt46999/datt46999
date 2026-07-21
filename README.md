@@ -43,15 +43,7 @@ My long-term goal is to become an AI Engineer capable of designing scalable, rel
 <h2 align="center">🚀 Personal Projects</h2>
 
 <table align="center">
-  <!-- Hàng 1: Đã thêm colspan="2" để ô này trải đều bằng 2 cột bên dưới -->
-  <!-- <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/datt46999/Deep_RAG_system">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Deep_RAG_system&theme=tokyonight&cache_seconds=60" alt="Deep_RAG_system"/>
-      </a>
-    </td>
-  </tr> -->
-  <!-- Hàng 2 -->
+ 
   <tr>
     <td>
       <a href="https://github.com/datt46999/LANGGRAPH_CHATBOT_MCP_TOOL">
@@ -103,4 +95,15 @@ My long-term goal is to become an AI Engineer capable of designing scalable, rel
       </a>
     </td>
   </tr>
+
+
+   <!-- Hàng 1: Đã thêm colspan="2" để ô này trải đều bằng 2 cột bên dưới -->
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/datt46999/Deep_RAG_system">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=Deep_RAG_system&theme=tokyonight&cache_seconds=60" alt="Deep_RAG_system"/>
+      </a>
+    </td>
+  </tr>
+  <!-- Hàng 2 -->
 </table>
