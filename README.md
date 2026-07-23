@@ -83,7 +83,7 @@ My long-term goal is to become an AI Engineer capable of designing scalable, rel
     </td>
   </tr>
   <!-- Hàng 5 -->
-  <tr>
+  <!-- <tr>
     <td>
       <a href="https://github.com/datt46999/HandWriting">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=HandWriting&theme=radical&cache_seconds=60" alt="HandWriting"/>
@@ -94,7 +94,7 @@ My long-term goal is to become an AI Engineer capable of designing scalable, rel
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=datt46999&repo=ST_GCN-For-HAR&theme=cobalt&cache_seconds=60" alt="ST_GCN-For-HAR"/>
       </a>
     </td>
-  </tr>
+  </tr> -->
 
 
    <!-- Hàng 1: Đã thêm colspan="2" để ô này trải đều bằng 2 cột bên dưới -->
