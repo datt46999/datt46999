@@ -13,7 +13,7 @@ My long-term goal is to become an AI Engineer capable of designing scalable, rel
 </p>
 
 <div align="center">
-🌱 I’m currently learning <b>LLM  and AI agents</b>
+🌱 I’m focus on  <b> Multi-agent systems, RAG pipelines, LLM evaluation, </b>
 </div>
 
 <br>
