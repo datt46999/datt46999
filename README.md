@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=HI!!!!+THERE!+👋;I'm+TAN+DAT+😀!;I'M+A+AI+ENGINEER+👨‍💻;AND+ALSO+A+AI+DEVELOPER+🤖" />
 </h1>
 
-<h1>About Me</h1>
 
 <p>
 Hi, I'm Dat — an aspiring AI Engineer passionate about building intelligent systems that solve real-world problems.
@@ -43,3 +42,7 @@ My long-term goal is to become an AI Engineer capable of designing scalable, rel
 
 </div>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/islam.wahid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="islam.wahid" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=datt46999&show_icons=true&theme=dark&text_color=fafafa&locale=en&layout=compact" alt="datt46999" /></p>
