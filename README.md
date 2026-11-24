@@ -1,3 +1,6 @@
+![logo](https://github.com/datt46999/datt46999/blob/main/hello.gif)
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=HI!!!!+THERE!+👋;I'm+TAN+DAT+😀!;I'M+A+AI+ENGINEER+👨‍💻;AND+ALSO+A+AI+DEVELOPER+🤖" />
 </h1>
